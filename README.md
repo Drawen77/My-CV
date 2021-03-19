@@ -1,3 +1,3 @@
 # My-CV
 
-Technologies used:React, Styled-Components, EmailJS
+#Technologies used:React, Styled-Components, EmailJS
